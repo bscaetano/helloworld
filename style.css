@@ -61,12 +61,6 @@ table thead th{
     background-color: #f4511e;
     color: white;
 }
-#pacotes .figuras figure{
-    display: inline-block;
-}
-#pacotes .figuras figure img{
-    width: 350px;
-}
-#pacotes .figuras, #pacotes .videos{
-    text-align: center;
+img{
+    width: 100%;
 }
