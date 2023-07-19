@@ -1,16 +1,6 @@
-body{
-    margin: 0;
-    font-weight: 400;
-    font-family: Lato, Helvetica, sans-serif;
-    font-size: 15px;
-    line-height: 2.2em;
-    color: #818181;
-}
-header{
-    background-color: #f4511e;
-}
-section, footer{
-    margin: 40px;
+header p{
+    color: #fff;
+    font-weight: 600;
 }
 h1{
     font-size: 63px;
